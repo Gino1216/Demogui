@@ -1,9 +1,36 @@
 h1{
     color: rebeccapurple;
-    font-size: 15;
+    font-size: 30px;
 
 }
 p{
- color: brown;
- font-size: 13;
+ background-color: rgb(230, 18, 18);
+ font-size: 20px;
+}
+img {
+    width: 50%;
+    height: 30%;
+}
+div li {
+    color: violet;
+    font-size: 18px;
+}
+h2 {
+    color: yellowgreen;
+    
+}
+ol {
+    color: rgb(55, 11, 138);
+}
+h3 {
+    color: darkmagenta;
+}
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 10px;
+    text-align: center;
 }
