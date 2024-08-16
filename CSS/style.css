@@ -46,7 +46,7 @@ th, td {
     font-weight: bold;
     border-radius: 10px;
     transition: background-color 0.3s;
-    margin-top: 20px; /* Khoảng cách từ ảnh đến liên kết */
+    margin-top: 20px; 
 }
 
 .square-button:hover {
