@@ -9,7 +9,7 @@ p{
 }
 img {
     width: 50%;
-    height: 30%;
+    height: 20%;
 }
 div li {
     color: violet;
@@ -33,4 +33,22 @@ table, th, td {
 th, td {
     padding: 10px;
     text-align: center;
+}
+.square-button {
+    display: inline-block;
+    width: 200px;
+    height: 15px;
+    text-align: center;
+    background-color: #007bff;
+    color: white;
+    text-decoration: none;
+    font-size: 12px;
+    font-weight: bold;
+    border-radius: 10px;
+    transition: background-color 0.3s;
+    margin-top: 20px; /* Khoảng cách từ ảnh đến liên kết */
+}
+
+.square-button:hover {
+    background-color: #0056b3;
 }
